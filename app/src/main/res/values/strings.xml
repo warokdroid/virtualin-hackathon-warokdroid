@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Virtual-In</string>
+    <string name="team_name">WAROK DROID</string>
+    <string name="powered_by">Powered by</string>
 </resources>
