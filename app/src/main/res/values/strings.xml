@@ -222,16 +222,16 @@
     </string-array>
 
     <array name="customer_photo">
-        <item>@drawable/ic_icon</item>
-        <item>@drawable/ic_icon</item>
-        <item>@drawable/ic_icon</item>
-        <item>@drawable/ic_icon</item>
-        <item>@drawable/ic_icon</item>
-        <item>@drawable/ic_icon</item>
-        <item>@drawable/ic_icon</item>
-        <item>@drawable/ic_icon</item>
-        <item>@drawable/ic_icon</item>
-        <item>@drawable/ic_icon</item>
+        <item>@drawable/profile_1</item>
+        <item>@drawable/profile_2</item>
+        <item>@drawable/profile_3</item>
+        <item>@drawable/profile_4</item>
+        <item>@drawable/profile_5</item>
+        <item>@drawable/profile_6</item>
+        <item>@drawable/profile_7</item>
+        <item>@drawable/profile_8</item>
+        <item>@drawable/profile_9</item>
+        <item>@drawable/profile_10</item>
     </array>
 
     <string-array name="customer_point">
