@@ -32,6 +32,13 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="categories">Categories</string>
     <string name="top_points">Top Points</string>
+    <string name="my_point_156_000">My Point : 156.000</string>
+    <string name="get_cashback">Dapatkan kupon cashback</string>
+    <string name="text_info_point">Tukarkan pointmu\ndengan\ncashback, diskon, dan\ngiveaway</string>
+    <string name="cashback_produk">Cashback Produk</string>
+    <string name="price_old">Rp. %s</string>
+    <string name="price_new">Rp. %s</string>
+    <string name="point_total">%s Point</string>
 
     <string-array name="category_id">
         <item>1</item>
@@ -224,5 +231,70 @@
         <item>2510</item>
         <item>8590</item>
         <item>8205</item>
+    </string-array>
+
+    <array name="product_icon">
+        <item>@drawable/ic_icon</item>
+        <item>@drawable/ic_icon</item>
+        <item>@drawable/ic_icon</item>
+        <item>@drawable/ic_icon</item>
+        <item>@drawable/ic_icon</item>
+        <item>@drawable/ic_icon</item>
+        <item>@drawable/ic_icon</item>
+        <item>@drawable/ic_icon</item>
+        <item>@drawable/ic_icon</item>
+        <item>@drawable/ic_icon</item>
+    </array>
+
+    <string-array name="product_name">
+        <item>Product Name 1</item>
+        <item>Product Name 2</item>
+        <item>Product Name 3</item>
+        <item>Product Name 4</item>
+        <item>Product Name 5</item>
+        <item>Product Name 6</item>
+        <item>Product Name 7</item>
+        <item>Product Name 8</item>
+        <item>Product Name 9</item>
+        <item>Product Name 10</item>
+    </string-array>
+
+    <string-array name="product_old_price">
+        <item>300.000</item>
+        <item>590.500</item>
+        <item>431.100</item>
+        <item>908.030</item>
+        <item>400.000</item>
+        <item>125.090</item>
+        <item>924.325</item>
+        <item>694.230</item>
+        <item>840.031</item>
+        <item>924.010</item>
+    </string-array>
+
+    <string-array name="product_new_price">
+        <item>285.000</item>
+        <item>425.924</item>
+        <item>321.320</item>
+        <item>754.130</item>
+        <item>320.500</item>
+        <item>85.050</item>
+        <item>767.325</item>
+        <item>584.150</item>
+        <item>735.121</item>
+        <item>853.352</item>
+    </string-array>
+
+    <string-array name="total_point">
+        <item>700</item>
+        <item>890</item>
+        <item>553</item>
+        <item>1100</item>
+        <item>1200</item>
+        <item>450</item>
+        <item>200</item>
+        <item>130</item>
+        <item>1250</item>
+        <item>1945</item>
     </string-array>
 </resources>
