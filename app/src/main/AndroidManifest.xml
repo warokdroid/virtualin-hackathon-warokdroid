@@ -11,6 +11,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppThemeNoActionBar"
         tools:ignore="AllowBackup,GoogleAppIndexingWarning">
+        <activity android:name=".activities.RegisterActivity"></activity>
         <activity android:name=".activities.LoginActivity" />
         <activity android:name=".activities.SplashScreenActivity">
             <intent-filter>
