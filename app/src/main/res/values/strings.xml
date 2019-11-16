@@ -25,6 +25,8 @@
     <string name="profile">Profile</string>
     <string name="point">Point : %s</string>
     <string name="founder">Founder : %s</string>
+    <string name="about_this_umkm">About This UMKM</string>
+    <string name="my_point">My Point</string>
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
