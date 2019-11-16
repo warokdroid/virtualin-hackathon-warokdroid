@@ -10,8 +10,8 @@
 
     <ImageView
         android:id="@+id/img_icon"
-        android:layout_width="100dp"
-        android:layout_height="100dp"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
         android:layout_marginEnd="8dp"
         android:src="@drawable/ic_icon"
         tools:ignore="ContentDescription" />
@@ -45,14 +45,14 @@
                 android:id="@+id/tv_product_price_old"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
+                android:layout_marginEnd="8dp"
                 android:layout_weight="1"
                 android:gravity="center_vertical"
                 android:lines="1"
-                android:layout_marginEnd="8dp"
                 android:textColor="@android:color/white"
                 android:textSize="14sp"
-                tools:text="@string/price_old"
-                tools:ignore="NestedWeights" />
+                tools:ignore="NestedWeights"
+                tools:text="@string/price_old" />
 
             <TextView
                 android:id="@+id/tv_product_price_new"

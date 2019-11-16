@@ -1,6 +1,8 @@
 package com.warokdroid.virtualin.activities
 
 import android.os.Bundle
+import android.view.View
+import android.widget.SearchView
 import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentManager
@@ -13,15 +15,22 @@ import com.warokdroid.virtualin.fragments.PromotionsFragment
 
 class MainActivity : AppCompatActivity() {
 
+    private lateinit var svUmkm: SearchView
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
         val navView: BottomNavigationView = findViewById(R.id.nav_view)
+        initViews()
 
         navView.setOnNavigationItemSelectedListener(onNavigationItemSelectedListener)
         if (savedInstanceState == null)
             navView.selectedItemId = R.id.navigation_home
+    }
+
+    private fun initViews() {
+        svUmkm = findViewById(R.id.sv_umkm)
     }
 
     private val onNavigationItemSelectedListener: BottomNavigationView.OnNavigationItemSelectedListener =
@@ -36,6 +45,7 @@ class MainActivity : AppCompatActivity() {
                     fragmentTransaction = fragmentManager.beginTransaction()
                     fragmentTransaction.replace(R.id.frame_home, fragment)
                     fragmentTransaction.commit()
+                    svUmkm.visibility = View.VISIBLE
                     return@OnNavigationItemSelectedListener true
                 }
                 R.id.navigation_promotion -> {
@@ -44,6 +54,7 @@ class MainActivity : AppCompatActivity() {
                     fragmentTransaction = fragmentManager.beginTransaction()
                     fragmentTransaction.replace(R.id.frame_home, fragment)
                     fragmentTransaction.commit()
+                    svUmkm.visibility = View.GONE
                     return@OnNavigationItemSelectedListener true
                 }
                 else -> {
@@ -52,6 +63,7 @@ class MainActivity : AppCompatActivity() {
                     fragmentTransaction = fragmentManager.beginTransaction()
                     fragmentTransaction.replace(R.id.frame_home, fragment)
                     fragmentTransaction.commit()
+                    svUmkm.visibility = View.GONE
                     return@OnNavigationItemSelectedListener true
                 }
             }
