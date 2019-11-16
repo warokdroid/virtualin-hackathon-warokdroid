@@ -16,4 +16,8 @@
     <string name="re_password">Re-Password</string>
     <string name="create_account">Create Account</string>
     <string name="sign_in_with_google">Sign in with google</string>
+    <string name="verify_account">Verify Account</string>
+    <string name="verify_account_details">Please send verification code we sent to your email address</string>
+    <string name="button_continue">Continue</string>
+    <string name="resend">Resend</string>
 </resources>
