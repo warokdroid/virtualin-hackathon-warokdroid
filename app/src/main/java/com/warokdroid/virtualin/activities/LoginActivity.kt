@@ -1,8 +1,9 @@
-package com.warokdroid.virtualin
+package com.warokdroid.virtualin.activities
 
 import android.os.Bundle
 import android.view.View
 import androidx.appcompat.app.AppCompatActivity
+import com.warokdroid.virtualin.R
 
 class LoginActivity : AppCompatActivity() {
 

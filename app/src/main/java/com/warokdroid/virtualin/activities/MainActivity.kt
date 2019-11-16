@@ -1,7 +1,8 @@
-package com.warokdroid.virtualin
+package com.warokdroid.virtualin.activities
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.warokdroid.virtualin.R
 
 class MainActivity : AppCompatActivity() {
 
