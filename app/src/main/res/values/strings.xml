@@ -30,8 +30,8 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="categories">Categories</string>
-    <string name="top_points">Top Points</string>
+    <string name="categories"><u>Categories</u></string>
+    <string name="top_points"><u>Top Points</u></string>
     <string name="my_point_156_000">My Point : 156.000</string>
     <string name="get_cashback">Dapatkan kupon cashback</string>
     <string name="text_info_point">Tukarkan pointmu\ndengan\ncashback, diskon, dan\ngiveaway</string>
@@ -54,75 +54,76 @@
     </string-array>
 
     <string-array name="category_name">
-        <item>Category UMKM 1</item>
-        <item>Category UMKM 2</item>
-        <item>Category UMKM 3</item>
-        <item>Category UMKM 4</item>
-        <item>Category UMKM 5</item>
-        <item>Category UMKM 6</item>
-        <item>Category UMKM 7</item>
-        <item>Category UMKM 8</item>
-        <item>Category UMKM 9</item>
-        <item>Category UMKM 10</item>
+        <item>UMKM KRIYA</item>
+        <item>UMKM KULINER</item>
+        <item>UMKM PENDIDIKAN</item>
+        <item>UMKM PETERNAKAN</item>
+        <item>UMKM PERTANIAN</item>
+        <item>UMKM FASHION</item>
+        <item>UMKM FURNITUR</item>
+        <item>UMKM TEKNOLOGI</item>
+        <item>UMKM OTOMOTIF</item>
+        <item>UMKM KOSMETIK</item>
     </string-array>
 
     <array name="category_icon">
-        <item>@drawable/ic_icon</item>
-        <item>@drawable/ic_icon</item>
-        <item>@drawable/ic_icon</item>
-        <item>@drawable/ic_icon</item>
-        <item>@drawable/ic_icon</item>
-        <item>@drawable/ic_icon</item>
-        <item>@drawable/ic_icon</item>
-        <item>@drawable/ic_icon</item>
-        <item>@drawable/ic_icon</item>
-        <item>@drawable/ic_icon</item>
+        <item>@drawable/category_1</item>
+        <item>@drawable/category_2</item>
+        <item>@drawable/category_3</item>
+        <item>@drawable/category_4</item>
+        <item>@drawable/category_5</item>
+        <item>@drawable/category_6</item>
+        <item>@drawable/category_7</item>
+        <item>@drawable/category_8</item>
+        <item>@drawable/category_9</item>
+        <item>@drawable/category_10</item>
     </array>
 
     <string-array name="umkm_name">
-        <item>Nama UMKM 1</item>
-        <item>Nama UMKM 2</item>
-        <item>Nama UMKM 3</item>
-        <item>Nama UMKM 4</item>
-        <item>Nama UMKM 5</item>
-        <item>Nama UMKM 6</item>
-        <item>Nama UMKM 7</item>
-        <item>Nama UMKM 8</item>
-        <item>Nama UMKM 9</item>
-        <item>Nama UMKM 10</item>
-        <item>Nama UMKM 11</item>
-        <item>Nama UMKM 12</item>
-        <item>Nama UMKM 13</item>
-        <item>Nama UMKM 14</item>
-        <item>Nama UMKM 15</item>
-        <item>Nama UMKM 16</item>
-        <item>Nama UMKM 17</item>
-        <item>Nama UMKM 18</item>
-        <item>Nama UMKM 19</item>
-        <item>Nama UMKM 20</item>
+        <item>Ical Clothes</item>
+        <item>Smart Farm</item>
+        <item>Warok Center</item>
+        <item>Bakso Bang Ucup</item>
+        <item>Glowing Dong</item>
+        <item>Yoga Furnitur</item>
+        <item>VegaPress</item>
+        <item>Master Printing</item>
+        <item>Bibit Unggul 21</item>
+        <item>Kartel Kulit</item>
+        <item>Seken Art</item>
+        <item>Kinny Store</item>
+        <item>Batik Cap</item>
+        <item>Adelia Art</item>
+        <item>Catering Sehat</item>
+        <item>Es Pisang Ijo</item>
+        <item>Stickee</item>
+        <item>SiCoJu</item>
+        <item>Erik Comp</item>
+        <item>Emus Fashion</item>
     </string-array>
 
+
     <string-array name="umkm_founder_name">
-        <item>Nama Founder 1</item>
-        <item>Nama Founder 2</item>
-        <item>Nama Founder 3</item>
-        <item>Nama Founder 4</item>
-        <item>Nama Founder 5</item>
-        <item>Nama Founder 6</item>
-        <item>Nama Founder 7</item>
-        <item>Nama Founder 8</item>
-        <item>Nama Founder 9</item>
-        <item>Nama Founder 10</item>
-        <item>Nama Founder 11</item>
-        <item>Nama Founder 12</item>
-        <item>Nama Founder 13</item>
-        <item>Nama Founder 14</item>
-        <item>Nama Founder 15</item>
-        <item>Nama Founder 16</item>
-        <item>Nama Founder 17</item>
-        <item>Nama Founder 18</item>
-        <item>Nama Founder 19</item>
-        <item>Nama Founder 20</item>
+        <item>Muhammad Faisal</item>
+        <item>Adila Mursyid</item>
+        <item>Gesang Prayoga</item>
+        <item>Yusuf Yahya</item>
+        <item>Rezha Ayu Nandita</item>
+        <item>Rendi Yoga Utama</item>
+        <item>Rio Mahendra</item>
+        <item>Ma\'ruf Amarullah</item>
+        <item>Sartono</item>
+        <item>Candra Agung</item>
+        <item>Arif Rifa\ni</item>
+        <item>Niki Yulian</item>
+        <item>Roli Evan Ali</item>
+        <item>Delva Delilia</item>
+        <item>Innas Putri Agung</item>
+        <item>Fitriyanti</item>
+        <item>Melyana Dwi Tristanti</item>
+        <item>Yolanda Raden</item>
+        <item>Erik Rio Setiawan</item>
+        <item>Andreas Mustofa</item>
     </string-array>
 
     <string-array name="umkm_rating">
@@ -149,62 +150,63 @@
     </string-array>
 
     <array name="umkm_icon">
-        <item>@drawable/ic_icon</item>
-        <item>@drawable/ic_icon</item>
-        <item>@drawable/ic_icon</item>
-        <item>@drawable/ic_icon</item>
-        <item>@drawable/ic_icon</item>
-        <item>@drawable/ic_icon</item>
-        <item>@drawable/ic_icon</item>
-        <item>@drawable/ic_icon</item>
-        <item>@drawable/ic_icon</item>
-        <item>@drawable/ic_icon</item>
-        <item>@drawable/ic_icon</item>
-        <item>@drawable/ic_icon</item>
-        <item>@drawable/ic_icon</item>
-        <item>@drawable/ic_icon</item>
-        <item>@drawable/ic_icon</item>
-        <item>@drawable/ic_icon</item>
-        <item>@drawable/ic_icon</item>
-        <item>@drawable/ic_icon</item>
-        <item>@drawable/ic_icon</item>
-        <item>@drawable/ic_icon</item>
+        <item>@drawable/islamic_fashion</item>
+        <item>@drawable/smart_farm</item>
+        <item>@drawable/warok_mart</item>
+        <item>@drawable/bakso_bang_ucup</item>
+        <item>@drawable/glowing_id</item>
+        <item>@drawable/yoga_furniture</item>
+        <item>@drawable/vega_press</item>
+        <item>@drawable/master_printing</item>
+        <item>@drawable/bibit_unggul</item>
+        <item>@drawable/kartal_kulit</item>
+        <item>@drawable/sekan_art</item>
+        <item>@drawable/kinny_store</item>
+        <item>@drawable/batik_cap</item>
+        <item>@drawable/adelia_art</item>
+        <item>@drawable/catering_makanan_sehat</item>
+        <item>@drawable/es_pisang_ijo</item>
+        <item>@drawable/stickee</item>
+        <item>@drawable/sicoju</item>
+        <item>@drawable/erik_computer</item>
+        <item>@drawable/emus_fashion</item>
     </array>
 
     <string-array name="umkm_about">
-        <item>1. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</item>
-        <item>2. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</item>
-        <item>3. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</item>
-        <item>4. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</item>
-        <item>5. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</item>
-        <item>6. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</item>
-        <item>7. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</item>
-        <item>8. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</item>
-        <item>9. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</item>
-        <item>10. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</item>
-        <item>11. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</item>
-        <item>12. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</item>
-        <item>13. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</item>
-        <item>14. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</item>
-        <item>15. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</item>
-        <item>16. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</item>
-        <item>17. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</item>
-        <item>18. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</item>
-        <item>19. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</item>
-        <item>20. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</item>
+        <item>UMKM ini adalah UMKM yang bergerak dibidang, dan telah berdiri sejak tahun 2006. Kami memliki tujuan untuk menjadi sebuah bisnis yang besar denga mengutamakan kualitas produk, kepuasan pelanggan, serta kualitas pelayanan yang kami berikan. Nah, Harapannya UMKM kami terus berkembang bersama dengan adanya teknologi-teknologi yang luar biasa di zaman serba digital ini.</item>
+        <item>UMKM ini adalah UMKM yang bergerak dibidang, dan telah berdiri sejak tahun 2006. Kami memliki tujuan untuk menjadi sebuah bisnis yang besar denga mengutamakan kualitas produk, kepuasan pelanggan, serta kualitas pelayanan yang kami berikan. Nah, Harapannya UMKM kami terus berkembang bersama dengan adanya teknologi-teknologi yang luar biasa di zaman serba digital ini.</item>
+        <item>UMKM ini adalah UMKM yang bergerak dibidang, dan telah berdiri sejak tahun 2006. Kami memliki tujuan untuk menjadi sebuah bisnis yang besar denga mengutamakan kualitas produk, kepuasan pelanggan, serta kualitas pelayanan yang kami berikan. Nah, Harapannya UMKM kami terus berkembang bersama dengan adanya teknologi-teknologi yang luar biasa di zaman serba digital ini.</item>
+        <item>UMKM ini adalah UMKM yang bergerak dibidang, dan telah berdiri sejak tahun 2006. Kami memliki tujuan untuk menjadi sebuah bisnis yang besar denga mengutamakan kualitas produk, kepuasan pelanggan, serta kualitas pelayanan yang kami berikan. Nah, Harapannya UMKM kami terus berkembang bersama dengan adanya teknologi-teknologi yang luar biasa di zaman serba digital ini.</item>
+        <item>UMKM ini adalah UMKM yang bergerak dibidang, dan telah berdiri sejak tahun 2006. Kami memliki tujuan untuk menjadi sebuah bisnis yang besar denga mengutamakan kualitas produk, kepuasan pelanggan, serta kualitas pelayanan yang kami berikan. Nah, Harapannya UMKM kami terus berkembang bersama dengan adanya teknologi-teknologi yang luar biasa di zaman serba digital ini.</item>
+        <item>UMKM ini adalah UMKM yang bergerak dibidang, dan telah berdiri sejak tahun 2006. Kami memliki tujuan untuk menjadi sebuah bisnis yang besar denga mengutamakan kualitas produk, kepuasan pelanggan, serta kualitas pelayanan yang kami berikan. Nah, Harapannya UMKM kami terus berkembang bersama dengan adanya teknologi-teknologi yang luar biasa di zaman serba digital ini.</item>
+        <item>UMKM ini adalah UMKM yang bergerak dibidang, dan telah berdiri sejak tahun 2006. Kami memliki tujuan untuk menjadi sebuah bisnis yang besar denga mengutamakan kualitas produk, kepuasan pelanggan, serta kualitas pelayanan yang kami berikan. Nah, Harapannya UMKM kami terus berkembang bersama dengan adanya teknologi-teknologi yang luar biasa di zaman serba digital ini.</item>
+        <item>UMKM ini adalah UMKM yang bergerak dibidang, dan telah berdiri sejak tahun 2006. Kami memliki tujuan untuk menjadi sebuah bisnis yang besar denga mengutamakan kualitas produk, kepuasan pelanggan, serta kualitas pelayanan yang kami berikan. Nah, Harapannya UMKM kami terus berkembang bersama dengan adanya teknologi-teknologi yang luar biasa di zaman serba digital ini.</item>
+        <item>UMKM ini adalah UMKM yang bergerak dibidang, dan telah berdiri sejak tahun 2006. Kami memliki tujuan untuk menjadi sebuah bisnis yang besar denga mengutamakan kualitas produk, kepuasan pelanggan, serta kualitas pelayanan yang kami berikan. Nah, Harapannya UMKM kami terus berkembang bersama dengan adanya teknologi-teknologi yang luar biasa di zaman serba digital ini.</item>
+        <item>UMKM ini adalah UMKM yang bergerak dibidang, dan telah berdiri sejak tahun 2006. Kami memliki tujuan untuk menjadi sebuah bisnis yang besar denga mengutamakan kualitas produk, kepuasan pelanggan, serta kualitas pelayanan yang kami berikan. Nah, Harapannya UMKM kami terus berkembang bersama dengan adanya teknologi-teknologi yang luar biasa di zaman serba digital ini.</item>
+        <item>UMKM ini adalah UMKM yang bergerak dibidang, dan telah berdiri sejak tahun 2006. Kami memliki tujuan untuk menjadi sebuah bisnis yang besar denga mengutamakan kualitas produk, kepuasan pelanggan, serta kualitas pelayanan yang kami berikan. Nah, Harapannya UMKM kami terus berkembang bersama dengan adanya teknologi-teknologi yang luar biasa di zaman serba digital ini.</item>
+        <item>UMKM ini adalah UMKM yang bergerak dibidang, dan telah berdiri sejak tahun 2006. Kami memliki tujuan untuk menjadi sebuah bisnis yang besar denga mengutamakan kualitas produk, kepuasan pelanggan, serta kualitas pelayanan yang kami berikan. Nah, Harapannya UMKM kami terus berkembang bersama dengan adanya teknologi-teknologi yang luar biasa di zaman serba digital ini.</item>
+        <item>UMKM ini adalah UMKM yang bergerak dibidang, dan telah berdiri sejak tahun 2006. Kami memliki tujuan untuk menjadi sebuah bisnis yang besar denga mengutamakan kualitas produk, kepuasan pelanggan, serta kualitas pelayanan yang kami berikan. Nah, Harapannya UMKM kami terus berkembang bersama dengan adanya teknologi-teknologi yang luar biasa di zaman serba digital ini.</item>
+        <item>UMKM ini adalah UMKM yang bergerak dibidang, dan telah berdiri sejak tahun 2006. Kami memliki tujuan untuk menjadi sebuah bisnis yang besar denga mengutamakan kualitas produk, kepuasan pelanggan, serta kualitas pelayanan yang kami berikan. Nah, Harapannya UMKM kami terus berkembang bersama dengan adanya teknologi-teknologi yang luar biasa di zaman serba digital ini.</item>
+        <item>UMKM ini adalah UMKM yang bergerak dibidang, dan telah berdiri sejak tahun 2006. Kami memliki tujuan untuk menjadi sebuah bisnis yang besar denga mengutamakan kualitas produk, kepuasan pelanggan, serta kualitas pelayanan yang kami berikan. Nah, Harapannya UMKM kami terus berkembang bersama dengan adanya teknologi-teknologi yang luar biasa di zaman serba digital ini.</item>
+        <item>UMKM ini adalah UMKM yang bergerak dibidang, dan telah berdiri sejak tahun 2006. Kami memliki tujuan untuk menjadi sebuah bisnis yang besar denga mengutamakan kualitas produk, kepuasan pelanggan, serta kualitas pelayanan yang kami berikan. Nah, Harapannya UMKM kami terus berkembang bersama dengan adanya teknologi-teknologi yang luar biasa di zaman serba digital ini.</item>
+        <item>UMKM ini adalah UMKM yang bergerak dibidang, dan telah berdiri sejak tahun 2006. Kami memliki tujuan untuk menjadi sebuah bisnis yang besar denga mengutamakan kualitas produk, kepuasan pelanggan, serta kualitas pelayanan yang kami berikan. Nah, Harapannya UMKM kami terus berkembang bersama dengan adanya teknologi-teknologi yang luar biasa di zaman serba digital ini.</item>
+        <item>UMKM ini adalah UMKM yang bergerak dibidang, dan telah berdiri sejak tahun 2006. Kami memliki tujuan untuk menjadi sebuah bisnis yang besar denga mengutamakan kualitas produk, kepuasan pelanggan, serta kualitas pelayanan yang kami berikan. Nah, Harapannya UMKM kami terus berkembang bersama dengan adanya teknologi-teknologi yang luar biasa di zaman serba digital ini.</item>
+        <item>UMKM ini adalah UMKM yang bergerak dibidang, dan telah berdiri sejak tahun 2006. Kami memliki tujuan untuk menjadi sebuah bisnis yang besar denga mengutamakan kualitas produk, kepuasan pelanggan, serta kualitas pelayanan yang kami berikan. Nah, Harapannya UMKM kami terus berkembang bersama dengan adanya teknologi-teknologi yang luar biasa di zaman serba digital ini.</item>
+        <item>UMKM ini adalah UMKM yang bergerak dibidang, dan telah berdiri sejak tahun 2006. Kami memliki tujuan untuk menjadi sebuah bisnis yang besar denga mengutamakan kualitas produk, kepuasan pelanggan, serta kualitas pelayanan yang kami berikan. Nah, Harapannya UMKM kami terus berkembang bersama dengan adanya teknologi-teknologi yang luar biasa di zaman serba digital ini.</item>
+        <item>UMKM ini adalah UMKM yang bergerak dibidang, dan telah berdiri sejak tahun 2006. Kami memliki tujuan untuk menjadi sebuah bisnis yang besar denga mengutamakan kualitas produk, kepuasan pelanggan, serta kualitas pelayanan yang kami berikan. Nah, Harapannya UMKM kami terus berkembang bersama dengan adanya teknologi-teknologi yang luar biasa di zaman serba digital ini.</item>
     </string-array>
 
     <string-array name="customer_name">
-        <item>Customer Name 1</item>
-        <item>Customer Name 2</item>
-        <item>Customer Name 3</item>
-        <item>Customer Name 4</item>
-        <item>Customer Name 5</item>
-        <item>Customer Name 6</item>
-        <item>Customer Name 7</item>
-        <item>Customer Name 8</item>
-        <item>Customer Name 9</item>
-        <item>Customer Name 10</item>
+        <item>Erik Rio Setiawan</item>
+        <item>Andreas Mustofa</item>
+        <item>Muhammad Faisal</item>
+        <item>Adila Mursyid</item>
+        <item>Gesang Prayoga</item>
+        <item>Rezha Ayu Nandita</item>
+        <item>Rendi Yoga Utama</item>
+        <item>Rio Mahendra</item>
+        <item>Ma\'ruf Amarullah</item>
+        <item>Sartono</item>
     </string-array>
 
     <array name="customer_photo">
@@ -247,10 +249,10 @@
     </array>
 
     <string-array name="product_name">
-        <item>Product Name 1</item>
-        <item>Product Name 2</item>
-        <item>Product Name 3</item>
-        <item>Product Name 4</item>
+        <item>Vas Bunga</item>
+        <item>Guci</item>
+        <item>Keranjang Anyaman</item>
+        <item>Batik</item>
         <item>Product Name 5</item>
         <item>Product Name 6</item>
         <item>Product Name 7</item>
