@@ -7,7 +7,7 @@
 
     <item
         android:id="@+id/navigation_promotion"
-        android:icon="@drawable/ic_money_off_white_24dp"
+        android:icon="@drawable/ic_attach_money_gold_24dp"
         android:title="@string/promotion" />
 
     <item

@@ -39,6 +39,18 @@
     <string name="price_old">Rp. %s</string>
     <string name="price_new">Rp. %s</string>
     <string name="point_total">%s Point</string>
+    <string name="profile_name">Muhammad Faisal</string>
+    <string name="profile_address">Madiun, Jawa Timur, Indonesia</string>
+    <string name="profile_point">My Point:\n156.000</string>
+    <string name="search_product">Cari Produk</string>
+    <string name="email">Email</string>
+    <string name="profile_email">muh.faisal572@gmail.com</string>
+    <string name="phone">Phone</string>
+    <string name="profile_phone_number">0123 7282 7827</string>
+    <string name="website">Website</string>
+    <string name="profile_website">www.warokdroid.com</string>
+    <string name="zip_code">Zip Code</string>
+    <string name="profile_zip_code">65646</string>
 
     <string-array name="category_id">
         <item>1</item>
