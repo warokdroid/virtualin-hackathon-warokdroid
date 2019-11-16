@@ -20,4 +20,10 @@
     <string name="verify_account_details">Please send verification code we sent to your email address</string>
     <string name="button_continue">Continue</string>
     <string name="resend">Resend</string>
+    <string name="title_home">Home</string>
+    <string name="promotion">Promotion</string>
+    <string name="profile">Profile</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
