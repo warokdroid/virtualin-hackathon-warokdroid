@@ -42,5 +42,4 @@ class TopPointsAdapter(var context: Context? = null, var customers: MutableList<
             itemView.setOnClickListener { listener(customer) }
         }
     }
-
 }
