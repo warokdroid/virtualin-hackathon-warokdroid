@@ -23,7 +23,204 @@
     <string name="title_home">Home</string>
     <string name="promotion">Promotion</string>
     <string name="profile">Profile</string>
+    <string name="point">Point : %s</string>
+    <string name="founder">Founder : %s</string>
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="categories">Categories</string>
+    <string name="top_points">Top Points</string>
+
+    <string-array name="category_id">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+
+    <string-array name="category_name">
+        <item>Category UMKM 1</item>
+        <item>Category UMKM 2</item>
+        <item>Category UMKM 3</item>
+        <item>Category UMKM 4</item>
+        <item>Category UMKM 5</item>
+        <item>Category UMKM 6</item>
+        <item>Category UMKM 7</item>
+        <item>Category UMKM 8</item>
+        <item>Category UMKM 9</item>
+        <item>Category UMKM 10</item>
+    </string-array>
+
+    <array name="category_icon">
+        <item>@drawable/ic_icon</item>
+        <item>@drawable/ic_icon</item>
+        <item>@drawable/ic_icon</item>
+        <item>@drawable/ic_icon</item>
+        <item>@drawable/ic_icon</item>
+        <item>@drawable/ic_icon</item>
+        <item>@drawable/ic_icon</item>
+        <item>@drawable/ic_icon</item>
+        <item>@drawable/ic_icon</item>
+        <item>@drawable/ic_icon</item>
+    </array>
+
+    <string-array name="umkm_name">
+        <item>Nama UMKM 1</item>
+        <item>Nama UMKM 2</item>
+        <item>Nama UMKM 3</item>
+        <item>Nama UMKM 4</item>
+        <item>Nama UMKM 5</item>
+        <item>Nama UMKM 6</item>
+        <item>Nama UMKM 7</item>
+        <item>Nama UMKM 8</item>
+        <item>Nama UMKM 9</item>
+        <item>Nama UMKM 10</item>
+        <item>Nama UMKM 11</item>
+        <item>Nama UMKM 12</item>
+        <item>Nama UMKM 13</item>
+        <item>Nama UMKM 14</item>
+        <item>Nama UMKM 15</item>
+        <item>Nama UMKM 16</item>
+        <item>Nama UMKM 17</item>
+        <item>Nama UMKM 18</item>
+        <item>Nama UMKM 19</item>
+        <item>Nama UMKM 20</item>
+    </string-array>
+
+    <string-array name="umkm_founder_name">
+        <item>Nama Founder 1</item>
+        <item>Nama Founder 2</item>
+        <item>Nama Founder 3</item>
+        <item>Nama Founder 4</item>
+        <item>Nama Founder 5</item>
+        <item>Nama Founder 6</item>
+        <item>Nama Founder 7</item>
+        <item>Nama Founder 8</item>
+        <item>Nama Founder 9</item>
+        <item>Nama Founder 10</item>
+        <item>Nama Founder 11</item>
+        <item>Nama Founder 12</item>
+        <item>Nama Founder 13</item>
+        <item>Nama Founder 14</item>
+        <item>Nama Founder 15</item>
+        <item>Nama Founder 16</item>
+        <item>Nama Founder 17</item>
+        <item>Nama Founder 18</item>
+        <item>Nama Founder 19</item>
+        <item>Nama Founder 20</item>
+    </string-array>
+
+    <string-array name="umkm_rating">
+        <item>4.9</item>
+        <item>4.1</item>
+        <item>4.4</item>
+        <item>4.0</item>
+        <item>3.5</item>
+        <item>4.9</item>
+        <item>3.9</item>
+        <item>3.1</item>
+        <item>2.5</item>
+        <item>4.8</item>
+        <item>2.0</item>
+        <item>2.4</item>
+        <item>1.9</item>
+        <item>4.3</item>
+        <item>4.2</item>
+        <item>4.1</item>
+        <item>3.2</item>
+        <item>3.0</item>
+        <item>4.8</item>
+        <item>4.3</item>
+    </string-array>
+
+    <array name="umkm_icon">
+        <item>@drawable/ic_icon</item>
+        <item>@drawable/ic_icon</item>
+        <item>@drawable/ic_icon</item>
+        <item>@drawable/ic_icon</item>
+        <item>@drawable/ic_icon</item>
+        <item>@drawable/ic_icon</item>
+        <item>@drawable/ic_icon</item>
+        <item>@drawable/ic_icon</item>
+        <item>@drawable/ic_icon</item>
+        <item>@drawable/ic_icon</item>
+        <item>@drawable/ic_icon</item>
+        <item>@drawable/ic_icon</item>
+        <item>@drawable/ic_icon</item>
+        <item>@drawable/ic_icon</item>
+        <item>@drawable/ic_icon</item>
+        <item>@drawable/ic_icon</item>
+        <item>@drawable/ic_icon</item>
+        <item>@drawable/ic_icon</item>
+        <item>@drawable/ic_icon</item>
+        <item>@drawable/ic_icon</item>
+    </array>
+
+    <string-array name="umkm_about">
+        <item>1. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</item>
+        <item>2. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</item>
+        <item>3. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</item>
+        <item>4. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</item>
+        <item>5. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</item>
+        <item>6. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</item>
+        <item>7. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</item>
+        <item>8. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</item>
+        <item>9. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</item>
+        <item>10. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</item>
+        <item>11. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</item>
+        <item>12. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</item>
+        <item>13. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</item>
+        <item>14. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</item>
+        <item>15. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</item>
+        <item>16. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</item>
+        <item>17. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</item>
+        <item>18. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</item>
+        <item>19. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</item>
+        <item>20. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</item>
+    </string-array>
+
+    <string-array name="customer_name">
+        <item>Customer Name 1</item>
+        <item>Customer Name 2</item>
+        <item>Customer Name 3</item>
+        <item>Customer Name 4</item>
+        <item>Customer Name 5</item>
+        <item>Customer Name 6</item>
+        <item>Customer Name 7</item>
+        <item>Customer Name 8</item>
+        <item>Customer Name 9</item>
+        <item>Customer Name 10</item>
+    </string-array>
+
+    <array name="customer_photo">
+        <item>@drawable/ic_icon</item>
+        <item>@drawable/ic_icon</item>
+        <item>@drawable/ic_icon</item>
+        <item>@drawable/ic_icon</item>
+        <item>@drawable/ic_icon</item>
+        <item>@drawable/ic_icon</item>
+        <item>@drawable/ic_icon</item>
+        <item>@drawable/ic_icon</item>
+        <item>@drawable/ic_icon</item>
+        <item>@drawable/ic_icon</item>
+    </array>
+
+    <string-array name="customer_point">
+        <item>4500</item>
+        <item>5801</item>
+        <item>2500</item>
+        <item>9320</item>
+        <item>8034</item>
+        <item>3240</item>
+        <item>9019</item>
+        <item>2510</item>
+        <item>8590</item>
+        <item>8205</item>
+    </string-array>
 </resources>
