@@ -66,7 +66,12 @@ class UmkmDetailFragment : Fragment(), View.OnClickListener {
     override fun onClick(v: View?) {
         when (v?.id) {
             R.id.img_share -> {
-                Toast.makeText(context, "Share Icon clicked!", Toast.LENGTH_SHORT).show()
+                val intentShare = Intent(Intent.ACTION_SEND)
+                intentShare.type = "text/plain"
+                intentShare.addFlags(Intent.FLAG_ACTIVITY_CLEAR_WHEN_TASK_RESET)
+                intentShare.putExtra(Intent.EXTRA_SUBJECT, "Share UMKM")
+                intentShare.putExtra(Intent.EXTRA_TEXT, "https://www,warokdroid.com")
+                context?.startActivity(Intent.createChooser(intentShare, "Share link!"))
             }
             R.id.img_bookmark -> {
                 Toast.makeText(context, "Bookmark Icon clicked!", Toast.LENGTH_SHORT).show()

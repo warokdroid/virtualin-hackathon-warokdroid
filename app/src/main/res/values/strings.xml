@@ -120,22 +120,22 @@
         <item>Adila Mursyid</item>
         <item>Gesang Prayoga</item>
         <item>Yusuf Yahya</item>
-        <item>Rezha Ayu Nandita</item>
-        <item>Rendi Yoga Utama</item>
+        <item>Rezha Ayu</item>
+        <item>Rendi Utama</item>
         <item>Rio Mahendra</item>
-        <item>Ma\'ruf Amarullah</item>
+        <item>Amarullah</item>
         <item>Sartono</item>
-        <item>Candra Agung</item>
-        <item>Arif Rifa\ni</item>
+        <item>Candra</item>
+        <item>Arif Rifa\'i</item>
         <item>Niki Yulian</item>
-        <item>Roli Evan Ali</item>
-        <item>Delva Delilia</item>
-        <item>Innas Putri Agung</item>
+        <item>Roli Evan</item>
+        <item>Delva</item>
+        <item>Innas Putri</item>
         <item>Fitriyanti</item>
-        <item>Melyana Dwi Tristanti</item>
-        <item>Yolanda Raden</item>
-        <item>Erik Rio Setiawan</item>
-        <item>Andreas Mustofa</item>
+        <item>Melyana Dwi</item>
+        <item>Yolanda</item>
+        <item>Erik Rio</item>
+        <item>Andreas</item>
     </string-array>
 
     <string-array name="umkm_rating">
@@ -235,29 +235,29 @@
     </array>
 
     <string-array name="customer_point">
-        <item>4500</item>
-        <item>5801</item>
-        <item>2500</item>
+        <item>9900</item>
+        <item>9550</item>
+        <item>9430</item>
         <item>9320</item>
         <item>8034</item>
-        <item>3240</item>
-        <item>9019</item>
-        <item>2510</item>
-        <item>8590</item>
-        <item>8205</item>
+        <item>7540</item>
+        <item>7019</item>
+        <item>6510</item>
+        <item>5590</item>
+        <item>5205</item>
     </string-array>
 
     <array name="product_icon">
-        <item>@drawable/ic_icon</item>
-        <item>@drawable/ic_icon</item>
-        <item>@drawable/ic_icon</item>
-        <item>@drawable/ic_icon</item>
-        <item>@drawable/ic_icon</item>
-        <item>@drawable/ic_icon</item>
-        <item>@drawable/ic_icon</item>
-        <item>@drawable/ic_icon</item>
-        <item>@drawable/ic_icon</item>
-        <item>@drawable/ic_icon</item>
+        <item>@drawable/vas_bunga</item>
+        <item>@drawable/guci</item>
+        <item>@drawable/keranjang_ayaman</item>
+        <item>@drawable/batik_1</item>
+        <item>@drawable/body_lotion</item>
+        <item>@drawable/daging_sapi</item>
+        <item>@drawable/karpet</item>
+        <item>@drawable/kusri1</item>
+        <item>@drawable/pisang_coklat</item>
+        <item>@drawable/ukirankayu</item>
     </array>
 
     <string-array name="product_name">
@@ -265,38 +265,38 @@
         <item>Guci</item>
         <item>Keranjang Anyaman</item>
         <item>Batik</item>
-        <item>Product Name 5</item>
-        <item>Product Name 6</item>
-        <item>Product Name 7</item>
-        <item>Product Name 8</item>
-        <item>Product Name 9</item>
-        <item>Product Name 10</item>
+        <item>Body Lotion</item>
+        <item>Daging Sapi</item>
+        <item>Karpet</item>
+        <item>Kursi</item>
+        <item>Pisang Coklat</item>
+        <item>Ukiran Kayu</item>
     </string-array>
 
     <string-array name="product_old_price">
-        <item>300.000</item>
-        <item>590.500</item>
-        <item>431.100</item>
-        <item>908.030</item>
-        <item>400.000</item>
-        <item>125.090</item>
-        <item>924.325</item>
-        <item>694.230</item>
-        <item>840.031</item>
-        <item>924.010</item>
+        <item>25.000</item>
+        <item>230.000</item>
+        <item>84.000</item>
+        <item>14.000</item>
+        <item>120.000</item>
+        <item>65.000</item>
+        <item>82.000</item>
+        <item>5.000</item>
+        <item>125.000</item>
+        <item>88.500</item>
     </string-array>
 
     <string-array name="product_new_price">
-        <item>285.000</item>
-        <item>425.924</item>
-        <item>321.320</item>
-        <item>754.130</item>
-        <item>320.500</item>
-        <item>85.050</item>
-        <item>767.325</item>
-        <item>584.150</item>
-        <item>735.121</item>
-        <item>853.352</item>
+        <item>15.000</item>
+        <item>185.000</item>
+        <item>11.000</item>
+        <item>97.000</item>
+        <item>45.000</item>
+        <item>85.000</item>
+        <item>65.000</item>
+        <item>3.000</item>
+        <item>100.000</item>
+        <item>70.000</item>
     </string-array>
 
     <string-array name="total_point">
